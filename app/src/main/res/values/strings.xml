@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string name="start">Start Story</string>
+    <string name="instructie">Fill in the type of word that is requested</string>
+    <string name="intro">Welcome to Mad Libs, where you can create your own story by filling in the blanks. You will be asked to provide certain words and these will be used to create your own unique story. Good luck.</string>
+    <string name="click">Ok</string>
+    <string name="retry">Retry</string>
+</resources>
